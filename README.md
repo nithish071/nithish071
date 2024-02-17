@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nithish071
+- 👋 Hi, I’m Nithish
 - 👀 I’m interested in learning New things..
 - 🌱 I’m currently learning java..
 - 💞️ I’m looking to collaborate on java domain...
