@@ -13,7 +13,7 @@ I am currently transitioning into **SDE-2 roles**, focusing on System Design and
 
 - 🔭 I’m currently building **[TicketRush](https://github.com/nithish071/ticket-rush-backend)**, a high-concurrency event booking engine using Spring Boot, Kafka, and Kubernetes.
 - 🌱 I’m currently Deep Diving into **System Design & Distributed Locking mechanisms**.
-- 💬 Ask me about **Java, Spring Boot, Apache Kafka, and Microservices patterns**.
+- 💬 Ask me about **Java, Spring Boot, Apache Kafka, and Design patterns**.
 - 📫 Reach me via **LinkedIn** (Link below).
 
 ---
